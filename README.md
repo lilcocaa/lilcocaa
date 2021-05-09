@@ -5,9 +5,10 @@
 
 - 🔭 Developers 66 [https://discord.gg/YjW6nSXVsa](https://discord.gg/YjW6nSXVsa)
 
+- 🔭 FGL | BotList [https://discord.gg/BxAS6mwgbr](https://discord.gg/BxAS6mwgbr)
+
 - 🎮 BrasilPixel [https://discord.gg/GxQ2HjJuVU](https://discord.gg/GxQ2HjJuVU)
 
-- 🔭 FGL | BotList [https://discord.gg/BxAS6mwgbr](https://discord.gg/BxAS6mwgbr)
 
 
 <h3 align="left">Languages and Tools:</h3>

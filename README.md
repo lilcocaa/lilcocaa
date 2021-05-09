@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Lil_Coca</h1>
 <h3 align="center">Um jovem desenvolvedor de bots para discord procurando aprender coisas novas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lilcocaa&label=Profile%20views&color=0e75b6&style=flat" alt="lilcocaa" /> </p>
-
 - 🔭 Developers 66 [https://discord.gg/YjW6nSXVsa](https://discord.gg/YjW6nSXVsa)
 
 - 🔭 FGL | BotList [https://discord.gg/BxAS6mwgbr](https://discord.gg/BxAS6mwgbr)
